@@ -7,7 +7,7 @@ Software Developer
 I've been learning code for 3 year and also I'm pursuing bachelor in computer science engineering. I started with C/ C++ but have really found a passion for Web development so Currently I'm working on it. I'm Learning HTML, CSS, JS and More.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Github Account](http://github.com/MohammadAmmar9890)
+* 🖥️  See my portfolio at [Linkedin Account]([http://github.com/MohammadAmmar9890](https://www.linkedin.com/in/mohammad-ammmar/)
 * ✉️  You can contact me at [ammar989098@gmail.com](mailto:ammar989098@gmail.com)
 * 🧠  I'm learning HTML, CSS, Javascript and more
 * 🤝  I'm open to collaborating on Web Development Project
