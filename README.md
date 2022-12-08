@@ -47,6 +47,9 @@ src="https://img.shields.io/github/followers/MohammadAmmar9890?logo=github&style
 
 <a href="https://github.com/MohammadAmmar9890" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmmar9890&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadAmmar9890=theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ammar98909z"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
