@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Ammar
 ===============================
 
-Software Developer
+Web Developer
 ------------------
 
 I've been learning code for 3 year and also I'm pursuing bachelor in computer science engineering. I started with C/ C++ but have really found a passion for Web development so Currently I'm working on it. I'm Learning HTML, CSS, JS and More.
